@@ -7,7 +7,7 @@ Domain - Applied Data Science
 
 ## Team Members
 
-- Arvind P (TL)
-- Arun Prasath S
-- Gowtham P
-- Leonard M
+- Vishnu priyan A (TL)
+- Siva kumar V
+- Thanseer ahamed L
+- Vishal D
